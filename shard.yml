@@ -1,0 +1,9 @@
+name: stopwatch
+version: 1.0.0
+
+authors:
+  - Daniel P. Clark <6ftdan@gmail.com>
+
+crystal: 0.21.1
+
+license: MIT
